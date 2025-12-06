@@ -2316,69 +2316,21 @@
         "link": "https://www.qbitai.com/2025/12/359261.html",
         "published_date": "Sat, 06 Dec 2025 02:38:00 GMT",
         "first_seen": "2025-12-06T05:22:10.031988"
+      },
+      "80db44f8090fd25c7c4f78fc0e2e32cb8756d3de313fcc3121b6f140b33d4f04": {
+        "title": "英伟达巧用8B模型秒掉GPT-5，开源了",
+        "link": "https://www.qbitai.com/2025/12/359417.html",
+        "published_date": "Sat, 06 Dec 2025 06:10:00 GMT",
+        "first_seen": "2025-12-06T08:28:42.375048"
+      },
+      "0ce472949f5054c4aba6c2fa7da682b84cd6cd268886b817763c2275f6b03183": {
+        "title": "SpaceX估值8000亿美元超OpenAI，IPO就在明年",
+        "link": "https://www.qbitai.com/2025/12/359371.html",
+        "published_date": "Sat, 06 Dec 2025 06:04:00 GMT",
+        "first_seen": "2025-12-06T08:28:42.375214"
       }
     },
     "Technology": {
-      "c039f36e8d617607e0f2271a699b8bbc432ed127d29251fbfd2aa6b78b7633f1": {
-        "title": "基于容器构建的 AI 智能体基础设施落地实践｜AICon北京站",
-        "link": "https://www.infoq.cn/article/0IljZmE0ESq5GD8WyA9R?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Nov 2025 13:00:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.555071"
-      },
-      "527f572ef58acc2653760570e26022755126a509fe72fdb2cf845398c2125691": {
-        "title": "Cursor 2.0 拓展 Composer 能力，助力上下文感知开发",
-        "link": "https://www.infoq.cn/article/O9EgGRkieMce8Cjs3zHY?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Nov 2025 12:00:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.555083"
-      },
-      "6928934e1e6e8865dfc3f321cd2e6cbec9fff1466c7a62342d359cf27807c705": {
-        "title": "达索系统在深圳启动新质生产力赋能平台，推动数字孪生与工业AI落地",
-        "link": "https://www.infoq.cn/article/dY6CNq9P7spEdk00XHAr?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Nov 2025 11:36:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.554968"
-      },
-      "4371d9d442b7e8d3ea9571d69f2cb43b016265d244acde21f886fe039226473b": {
-        "title": "苹果发布 Pico-Banana-400K 数据集，用于构建文本引导的图像编辑模型",
-        "link": "https://www.infoq.cn/article/Zve9Nu07kiQA9Y6ZE7ZU?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Nov 2025 11:00:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.554999"
-      },
-      "d21bf54c11008456b6db441df196dc495cd1e433333d451240a53e07ccd508f9": {
-        "title": "从软件开发到测试自动化的角色转变",
-        "link": "https://www.infoq.cn/article/xIP8XzUd50xR9f96Fy9w?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Nov 2025 10:04:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.555092"
-      },
-      "df8fbffdbf849de5a47710e21a243ef26ba360fd189dc676caf4224f6f46d178": {
-        "title": "PC芯片强势回归，如何把握这一投资机会？",
-        "link": "https://www.tmtpost.com/7751165.html",
-        "published_date": "Thu, 06 Nov 2025 10:38:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.555013"
-      },
-      "889c4a44a4f6c9483725c739b03339724c57885b32afd65874a285b04ed52258": {
-        "title": "安徽煤电龙头拟15亿收购陕西黑猫旗下公司；木门厂商收购川土微并易主，跨界模拟芯片；【并购一线】",
-        "link": "https://www.tmtpost.com/7750974.html",
-        "published_date": "Thu, 06 Nov 2025 09:50:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.555027"
-      },
-      "4e510b84c2fd432db8b5f95eb1e39df85677c5cb74e069364c709f820800ef45": {
-        "title": "科股早知道：随着6G技术不断发展及标准确立，产业有望迎来机遇期",
-        "link": "https://www.tmtpost.com/7750743.html",
-        "published_date": "Thu, 06 Nov 2025 08:00:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.555038"
-      },
-      "eef9d575c9e0d7b29c2c06ec95fe1b27173fe8a58180c1e9c2e7878bd8a151be": {
-        "title": "新的双十一，看看新产品，享受新优惠",
-        "link": "https://sspai.com/post/103553",
-        "published_date": "Thu, 06 Nov 2025 11:00:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.555059"
-      },
-      "3fdaa63b1bcebfeb192f2abe64dc8245a8ca7ff50510257ce8f26f05b66abe6f": {
-        "title": "派早报：小鹏发布人形机器人 IRON、奶牛快传即将停止服务等",
-        "link": "https://sspai.com/post/103573",
-        "published_date": "Thu, 06 Nov 2025 08:40:00 GMT",
-        "first_seen": "2025-11-06T05:22:35.555050"
-      },
       "223a968f1459b32eada98d4d167e33b2dbe52bff56d338bbd3b659861eb7cfba": {
         "title": "华为、联想追随苹果入局，但超薄手机只是“偏科生”的小众生意",
         "link": "https://www.tmtpost.com/7751963.html",
@@ -13376,13 +13328,43 @@
         "link": "http://www.huxiu.com/article/4811722.html?f=wangzhan",
         "published_date": "Sat, 06 Dec 2025 07:38:00 GMT",
         "first_seen": "2025-12-06T05:22:10.093318"
+      },
+      "75c3c95cb3d4bc496cc4ef66222cefad21f7bfd91167355bf29831aa3d7760a7": {
+        "title": "黄峥去哪儿了",
+        "link": "https://www.tmtpost.com/7799084.html",
+        "published_date": "Sat, 06 Dec 2025 15:26:00 GMT",
+        "first_seen": "2025-12-06T08:28:42.442547"
+      },
+      "b9747f7387dedfaef505ceb94dcab6d4aabda2566318de91b6c4b315d70d1cd9": {
+        "title": "好莱坞的鱼头终于朝向了奈飞",
+        "link": "https://www.tmtpost.com/7798937.html",
+        "published_date": "Sat, 06 Dec 2025 13:39:00 GMT",
+        "first_seen": "2025-12-06T08:28:42.442659"
+      },
+      "6a8ac69d0339021f752b635eaefc7172db8a31dbc59a93796220887db5dfb7d0": {
+        "title": "关于动态血糖仪，厂商没说的",
+        "link": "https://sspai.com/post/104274",
+        "published_date": "Sat, 06 Dec 2025 15:13:00 GMT",
+        "first_seen": "2025-12-06T08:28:42.442784"
+      },
+      "1fe353906ee719dadad157873b29b440468fdca205af878fc1f7875d0cc6c4fc": {
+        "title": "探索·向上！极客公园 2025 年度「InnoForce 50」发布",
+        "link": "http://www.geekpark.net/news/357690",
+        "published_date": "Sat, 06 Dec 2025 14:48:00 GMT",
+        "first_seen": "2025-12-06T08:28:42.442948"
+      },
+      "5754d31458ac0479f64327a0b71701daea3a6a699f1f9c91e09911e32b66a448": {
+        "title": "现在做短剧，还能赚大钱吗？",
+        "link": "http://www.geekpark.net/news/357689",
+        "published_date": "Sat, 06 Dec 2025 13:32:00 GMT",
+        "first_seen": "2025-12-06T08:28:42.443096"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-06T05:22:10.051203",
-    "Technology": "2025-12-06T05:22:58.412204",
-    "Finance": "2025-12-06T05:22:09.927261"
+    "AI": "2025-12-06T08:28:42.404440",
+    "Technology": "2025-12-06T08:28:42.450623",
+    "Finance": "2025-12-06T08:28:42.268837"
   }
 }
