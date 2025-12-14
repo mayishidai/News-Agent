@@ -2706,6 +2706,12 @@
         "link": "https://www.qbitai.com/2025/12/360603.html",
         "published_date": "Sun, 14 Dec 2025 03:39:00 GMT",
         "first_seen": "2025-12-14T05:22:55.768543"
+      },
+      "c8139b6d908a85f35cbbd5cf6cf3e646b458bb2d7674ffb842a307d29d6a972c": {
+        "title": "OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE",
+        "link": "https://www.qbitai.com/2025/12/360864.html",
+        "published_date": "Sun, 14 Dec 2025 06:27:00 GMT",
+        "first_seen": "2025-12-14T08:29:23.057341"
       }
     },
     "Technology": {
@@ -13388,13 +13394,19 @@
         "link": "https://www.infoq.cn/article/rV3EQM28W3HNqvrjYM8P?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 14 Dec 2025 08:00:00 GMT",
         "first_seen": "2025-12-14T05:22:55.855140"
+      },
+      "43138f64f6d9c1609492d488a05a22edd6d020f9f8f9b779c6c8fe3c8e6276c0": {
+        "title": "昨夜星辰（四）我的三星职场之旅",
+        "link": "https://www.tmtpost.com/7808408.html",
+        "published_date": "Sun, 14 Dec 2025 16:14:00 GMT",
+        "first_seen": "2025-12-14T08:29:23.139792"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-14T05:22:55.788278",
-    "Technology": "2025-12-14T05:22:55.862743",
-    "Finance": "2025-12-14T05:22:55.661965"
+    "AI": "2025-12-14T08:29:23.076446",
+    "Technology": "2025-12-14T08:29:23.147101",
+    "Finance": "2025-12-14T08:29:22.951764"
   }
 }
