@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-25 05:27
+**最后更新时间**: 2025-12-25 08:32
+
+---
+
+## 🆕 最新更新 (2025-12-25 08:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Lam Research股价创历史新高，CEO刚刚出售价值2700万美元股票](https://www.tmtpost.com/7821049.html)
+**发布时间**: 2025-12-25 16:17
+
+#### [摆脱智能手机，可穿戴设备是否存在另一条AI路线？](https://www.tmtpost.com/7821014.html)
+**发布时间**: 2025-12-25 16:12
+
+#### [好的激励机制，也是“运营”出来的](https://www.tmtpost.com/7820862.html)
+**发布时间**: 2025-12-25 15:10
+
+#### [从CDN先锋到边缘AI引领者，网宿科技高质量发展获深度认同](https://www.tmtpost.com/7820918.html)
+**发布时间**: 2025-12-25 14:53
+
+#### [榜单公布｜2025 EDGE AWARDS年度企业服务榜正式揭晓](https://www.tmtpost.com/7820575.html)
+**发布时间**: 2025-12-25 13:38
+
+#### [再去美国上市，瑞幸还能讲什么故事？ | 「钛度号」作品月榜第133期](https://www.tmtpost.com/7820789.html)
+**发布时间**: 2025-12-25 13:36
+
+#### [UiPath股价大涨，这家AI赢家为何迎来大幅提振](https://www.tmtpost.com/7820793.html)
+**发布时间**: 2025-12-25 12:37
+
+#### [英特尔股价下跌，原因在于英伟达](https://www.tmtpost.com/7820791.html)
+**发布时间**: 2025-12-25 12:36
+
+#### [这家生物科技公司的股价飙升，赛诺菲以22亿美元收购它](https://www.tmtpost.com/7820788.html)
+**发布时间**: 2025-12-25 12:36
+
+#### [今日波动最大的股票：耐克、UiPath、特斯拉、AMC、Strategy等](https://www.tmtpost.com/7820786.html)
+**发布时间**: 2025-12-25 12:36
+
+#### [院线票房隐忧未消，AMC 股价终结十一连跌走势](https://www.tmtpost.com/7820784.html)
+**发布时间**: 2025-12-25 12:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [直击 AICon 北京！BUILD 大会引爆现场，线上精彩同步开启](https://www.infoq.cn/article/jw14Q7AfkXrvmKUqbqpG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 16:04
+
+#### [从 RAG 到 Context：2025 年 RAG 技术年终总结](https://www.infoq.cn/article/L452I9YAB4gaKJMmiY0T?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 15:45
+
+#### [“2030年消灭所有C/C++”？微软紧急否认AI+Rust重写Windows 11，但“一人一月一百万行代码”已让技术圈炸锅](https://www.infoq.cn/article/Rquv5WQEYGfVepGP2wOo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 15:31
+
+#### [构建可扩展的流媒体基础设施：因为观众不会等到明天](https://www.infoq.cn/article/yYOOhUV40sCTSHfc8kXi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 15:18
+
+#### [Target公司借助生成式AI推荐将“加入购物车”互动率提升11%](https://www.infoq.cn/article/Tya5gqfshHYf17PU0G8f?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-25 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [这么近那么美，周末到河北：看燕赵大地，逛正定古城](https://sspai.com/post/104734)
+**发布时间**: 2025-12-25 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [短剧狂飙：科班生的不适与阵痛](http://www.huxiu.com/article/4820446.html?f=wangzhan)
+**发布时间**: 2025-12-25 14:47
 
 ---
 
