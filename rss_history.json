@@ -2652,6 +2652,18 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-02",
         "published_date": "Fri, 02 Jan 2026 00:40:00 GMT",
         "first_seen": "2026-01-01T23:24:17.565818"
+      },
+      "eafe1d3403815d6a46e3590315c54b7731bd4de6bfca808c01c11c6171de67a6": {
+        "title": "AI正在占领你的视频推荐流",
+        "link": "https://www.qbitai.com/2026/01/366433.html",
+        "published_date": "Fri, 02 Jan 2026 03:58:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.675674"
+      },
+      "11e9df29d55129b27e95369830121f754d0efed12d8127ec19c81e1a6e242bd3": {
+        "title": "「北京版幻方」冷不丁开源SOTA代码大模型！一张3090就能跑，40B参数掀翻Opus-4.5和GPT-5.2",
+        "link": "https://www.qbitai.com/2026/01/366408.html",
+        "published_date": "Fri, 02 Jan 2026 03:51:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.675843"
       }
     },
     "Technology": {
@@ -12914,13 +12926,73 @@
         "link": "https://www.tmtpost.com/7828641.html",
         "published_date": "Thu, 01 Jan 2026 16:58:00 GMT",
         "first_seen": "2026-01-01T23:24:17.664821"
+      },
+      "92b2c214141bf36927b389a5b6b8ed8e474d5d04b65bfc857709a45abb8407f9": {
+        "title": "壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮",
+        "link": "https://www.tmtpost.com/7829011.html",
+        "published_date": "Fri, 02 Jan 2026 11:55:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.770371"
+      },
+      "3daf6cc291a4bdb0dd6180b4fec8049d979715c75a2497d4f08475a7a247bab1": {
+        "title": "2026增长的本质并没有变",
+        "link": "https://www.tmtpost.com/7828987.html",
+        "published_date": "Fri, 02 Jan 2026 10:43:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.770499"
+      },
+      "81f2f599eedf3bbec789cd74f437683b1bacc1f4064df6f15fdec30633325993": {
+        "title": "2025，这些互联网巨头赢麻了",
+        "link": "https://www.tmtpost.com/7828731.html",
+        "published_date": "Fri, 02 Jan 2026 10:43:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.770620"
+      },
+      "d7799fd2d6ac866022958384ed85dcc1b662ae3042fd06547666fdbc27fe8f1b": {
+        "title": "又是量化基金，第二个DeepSeek时刻到来了？",
+        "link": "https://www.tmtpost.com/7829093.html",
+        "published_date": "Fri, 02 Jan 2026 10:42:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.770775"
+      },
+      "bb7aa9a19c0df4d1581b5a214282f09e19ff311d11cd83dc69caed754301804c": {
+        "title": "Meta收购Manus的背后：AI时代的危与机",
+        "link": "https://www.tmtpost.com/7828964.html",
+        "published_date": "Fri, 02 Jan 2026 08:21:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.770984"
+      },
+      "cbe18e0e5838263c1dcb01601286186a5944f3a1bf262b15486d093b6badb7f6": {
+        "title": "特朗普的“充电宝”，要赴港IPO了",
+        "link": "https://www.tmtpost.com/7828993.html",
+        "published_date": "Fri, 02 Jan 2026 08:21:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.771225"
+      },
+      "5763d6387ce230d8685aba9c60c6a262627a17b35be495c9846a2d206ea9365f": {
+        "title": "商汤前总裁带队，港股“GPU第一股”壁仞科技开年挂牌：市值破千亿、首日涨幅领跑市场",
+        "link": "https://www.infoq.cn/article/b7oKHuFAxNlVIGpSpGiP?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 02 Jan 2026 11:02:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.771605"
+      },
+      "ee17585435f390cc0d1f84fc9f1eccdb79a818c947a581e8a66dab0b245674fa": {
+        "title": "SIMA 2利用Gemini和自我改进技术在未见过的3D和逼真世界中进行泛化",
+        "link": "https://www.infoq.cn/article/kX8Kzyl87l5Sij8lvMT7?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 02 Jan 2026 10:15:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.772022"
+      },
+      "b7fa5b3ae852868e5e5b774f5e0daac2fe2745ca38b640fd9a940adea04f18a6": {
+        "title": "Docker在容器安全转型中免费提供加固镜像",
+        "link": "https://www.infoq.cn/article/0xVzZHZRClxGI6ZOwsxC?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.772325"
+      },
+      "7cb3dcce1136295ddb14ff1ae22599e7cffc11e6685f22a4747e8ddf44832e30": {
+        "title": "微软预览Foundry Agent Service长期记忆功能，简化状态管理",
+        "link": "https://www.infoq.cn/article/fJSWBV2X88YKUCvoqI6P?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 02 Jan 2026 08:00:00 GMT",
+        "first_seen": "2026-01-02T05:28:30.772865"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-01T23:24:17.592646",
-    "Technology": "2026-01-01T23:24:17.672352",
-    "Finance": "2026-01-01T23:24:17.452644"
+    "AI": "2026-01-02T05:28:30.696867",
+    "Technology": "2026-01-02T05:28:30.780409",
+    "Finance": "2026-01-02T05:28:30.562488"
   }
 }
