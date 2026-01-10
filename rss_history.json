@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "8bd8e28f4ea9cc34f7284f2874acea87367727625b170f051df2b7b7d47d4c8d": {
-        "title": "BrainOmni：首个统一脑电磁基础模型，实现跨设备、跨模态的通用脑信号表征",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-8",
-        "published_date": "Thu, 11 Dec 2025 14:52:00 GMT",
-        "first_seen": "2025-12-11T08:33:52.856643"
-      },
-      "ba2253787e1a95039f5dc875fad133c363889504872c5b3c77c358cddab949b1": {
-        "title": "把数据中心塞进办公桌，让智能开发快N倍 ⚡",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-7",
-        "published_date": "Thu, 11 Dec 2025 14:29:00 GMT",
-        "first_seen": "2025-12-11T08:33:52.856803"
-      },
-      "fe0e943106ee9a45e37b555a9a9352783548e8b9c2606bd8865062a19250278a": {
-        "title": "钉钉又发新版本！把 AI 搬进每一次对话和会议",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-6",
-        "published_date": "Thu, 11 Dec 2025 14:19:00 GMT",
-        "first_seen": "2025-12-11T08:33:52.856994"
-      },
-      "e508ce8ea09e8015cd4327a027be93957a6c89c4a5d655b7490241fbc1587003": {
-        "title": "Astribot Lumo-1: 能在物理空间中推理和行动的通用操作大模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-11-5",
-        "published_date": "Thu, 11 Dec 2025 14:14:00 GMT",
-        "first_seen": "2025-12-11T08:33:52.857289"
-      },
-      "e9abf894a5d078e3865a1aba3b167652994220d449d14a398f3661f7e8dfcdc2": {
-        "title": "MEET2026挤爆了，AI圈今年最该听的20+场演讲&对谈都在这",
-        "link": "https://www.qbitai.com/2025/12/360136.html",
-        "published_date": "Thu, 11 Dec 2025 07:16:00 GMT",
-        "first_seen": "2025-12-11T08:33:52.857740"
-      },
-      "a9b24a428cc40a6b61bd8b02d388e1573d33ce0dfbf86dff2e74982fa194874c": {
-        "title": "慧思开物全局调度，北京人形推出全国首个全自主无人化导览解决方案",
-        "link": "https://www.qbitai.com/2025/12/360124.html",
-        "published_date": "Thu, 11 Dec 2025 05:49:00 GMT",
-        "first_seen": "2025-12-11T08:33:52.858036"
-      },
       "aaee0c4d91c58412483d35abdcadc6082494680ca76dee6736a59310897a9c71": {
         "title": "大模型的第一性原理：（一）统计物理篇",
         "link": "https://www.jiqizhixin.com/articles/2025-12-11-11",
@@ -2580,81 +2544,45 @@
         "link": "https://www.qbitai.com/feed",
         "published_date": "Sat, 10 Jan 2026 08:30:00 GMT",
         "first_seen": "2026-01-10T08:30:18.904489"
+      },
+      "0781e0826a59c9b0d973067aefbec0f257ca5130c4bee4a210c1ca0bf6b3299a": {
+        "title": "刚刚，唐杰、杨强、杨植麟、林俊旸和刚回国的姚顺雨坐一起都聊了啥？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-6",
+        "published_date": "Sat, 10 Jan 2026 23:27:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.014809"
+      },
+      "629cd94ae3083b2e4ff74f0dae9364f48e86017e79f0601f617fe2bce26925c0": {
+        "title": "CES 2026「最烂」产品大赏",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-5",
+        "published_date": "Sat, 10 Jan 2026 21:24:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.015002"
+      },
+      "87f43bed6fce55187f05621098f8c2d78c5f51ce49a4a8dfe9e74e50a059b5cd": {
+        "title": "前谷歌研究员发文：算力崇拜时代该结束了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-4",
+        "published_date": "Sat, 10 Jan 2026 21:19:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.015159"
+      },
+      "48684f673bc1b975e1d3b66ab46ed768a669fa819797a0757e803fe00dd693af": {
+        "title": "因为AI编程，Tailwind CSS差点死了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-3",
+        "published_date": "Sat, 10 Jan 2026 21:16:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.015358"
+      },
+      "d305d5652e7b4b863eb5888129788129530afcba2fa8eda1b6ebc1ed09eaba22": {
+        "title": "打破学科壁垒！400篇参考文献重磅综述，统一调查「人脑×Agent」记忆系统",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10-2",
+        "published_date": "Sat, 10 Jan 2026 21:10:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.015675"
+      },
+      "ec8971fcb8122c2c01c64835316ab99139cdb5eb5742506e1423a51b33d4e326": {
+        "title": "DeepSeek-OCR是「长文本理解」未来方向？中科院新基准VTCBench给出答案",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-10",
+        "published_date": "Sat, 10 Jan 2026 20:56:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.016161"
       }
     },
     "Technology": {
-      "aac889ee5126a88635ca2178dc9107bb0f6c6c3c90fd8e6dd79228d8de18cc24": {
-        "title": "2025年，那些跨界机器人的造车势力",
-        "link": "https://www.tmtpost.com/7806055.html",
-        "published_date": "Thu, 11 Dec 2025 16:24:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263057"
-      },
-      "af938ff06db07b5bf06755f77e02db071fe1ec6cd78a0717180c959b32248a42": {
-        "title": "量产太晚是硬伤：地平线HSD能否跨越Momenta这座大山？",
-        "link": "https://www.tmtpost.com/7806129.html",
-        "published_date": "Thu, 11 Dec 2025 16:23:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263068"
-      },
-      "9f08c934715c48adcfc326589085a96320eb1c3a2586c15f479e9c5810e1b494": {
-        "title": "美亚科技：近7成资产为应收账款，无偿房产担保引监管问询｜IPO观察",
-        "link": "https://www.tmtpost.com/7805547.html",
-        "published_date": "Thu, 11 Dec 2025 16:22:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.262998"
-      },
-      "b39dd6795b5e50ba1eef728fb13d63d3084d64776b7fdbb10ff809fcc2a21e01": {
-        "title": "JD.com to Buy Half of Hong Kong Office Tower for USD450 Million as Retailer Deepens Presence in the City",
-        "link": "https://www.tmtpost.com/7806108.html",
-        "published_date": "Thu, 11 Dec 2025 15:41:00 GMT",
-        "first_seen": "2025-12-11T08:33:52.962776"
-      },
-      "d34ae57b5555889946db3c6f6ed7ba4003dbeb93b4c39b0587c3c3ce53244d6b": {
-        "title": "Moore Threads Shares Surge as Chinese AI Chipmaker Prepares Fifth-Generation GPU Launch",
-        "link": "https://www.tmtpost.com/7806074.html",
-        "published_date": "Thu, 11 Dec 2025 15:05:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263081"
-      },
-      "53e35bbe4db1aaf468d706a05465ed8858c7bbd7000df05fc35693e3ea5d714a": {
-        "title": "从冷门歌手到热门金曲，AI音乐成了？",
-        "link": "https://www.tmtpost.com/7805605.html",
-        "published_date": "Thu, 11 Dec 2025 14:27:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263092"
-      },
-      "198f1227bf7316273835a323691403878c9f493cc4435882d4379cfa2acf877e": {
-        "title": "Agentic AI基金会成立，智能体的“Linux时刻”来了！MCP、AGENTS.md集体上车，下一代AI技术栈PARK出世",
-        "link": "https://www.infoq.cn/article/Hgvb9KslJIGp2frWrmqk?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Dec 2025 16:19:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263031"
-      },
-      "ffac317adff2002ff69084460298a463b4e25e34e7814a9c5805d3dc3bbde20d": {
-        "title": "MySQL代码库分析报告显示，开发活动衰退且贡献者数量减少",
-        "link": "https://www.infoq.cn/article/xWk03w7HZeBR6z35z7Zh?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Dec 2025 15:13:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263102"
-      },
-      "f8704bdae25498ead46d272bf858e237b24f97f5911e73ccad6056d8b9d474b8": {
-        "title": "BellSoft 发布 Java 加固镜像",
-        "link": "https://www.infoq.cn/article/fPftGqWlNCDwqO3Vw8Ta?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Dec 2025 14:59:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263045"
-      },
-      "8a72f676af961180294ae288adac66934dbf1bfb2c8b2dc4e8acb5a631df64fb": {
-        "title": "2025腾讯云TencentOS成功案例精选：助力国产OS无感替换与智能升级",
-        "link": "https://www.infoq.cn/minibook/dSM1vS6JpmGmFsuRLPzU?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Dec 2025 14:01:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263112"
-      },
-      "15a39884630c347fd94cc9aefeddcb540f5b9f94a3866a00f71138e8ba6d21c9": {
-        "title": "买哪款、怎么买：双十二 iPhone 选购指南",
-        "link": "https://sspai.com/post/104349",
-        "published_date": "Thu, 11 Dec 2025 15:02:00 GMT",
-        "first_seen": "2025-12-11T08:34:41.263124"
-      },
-      "eba57500b40c45726ae7135467f0058da1604956fe998b4d09cf492951ab6623": {
-        "title": "2026 硬件觉醒：AI 硬件迎来「安卓时刻」",
-        "link": "http://www.geekpark.net/news/357920",
-        "published_date": "Thu, 11 Dec 2025 14:19:00 GMT",
-        "first_seen": "2025-12-11T08:33:52.967318"
-      },
       "55103f7e0a0b0f1ef85a0c75e33e39a074d8e1b88cd1d00908fb79764cbf3e8f": {
         "title": "OpenAI Unveils GPT-5.2 to Counter Google's Gemini 3 Dominance, Claims Strongest Agent Coding Capabilities",
         "link": "https://www.tmtpost.com/7806611.html",
@@ -12578,13 +12506,97 @@
         "link": "https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 10 Jan 2026 13:30:00 GMT",
         "first_seen": "2026-01-10T08:30:19.019813"
+      },
+      "7275f6a5150be7776f01e35b9faf0e6c0912b5dd78e4b0c1987de8e35a18e6b3": {
+        "title": "价值判断：涨停板的投资机会和风险提示（1月9日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7838184.html",
+        "published_date": "Sat, 10 Jan 2026 23:18:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369156"
+      },
+      "fa587d9ade8794fdfb7b7ed26d524324e43d1f0392fbff3db4e1080c71396672": {
+        "title": "加州大学伯克利Dr. Allen Yang：物理AI的分水岭时刻尚未到来｜CES 2026",
+        "link": "https://www.tmtpost.com/7838021.html",
+        "published_date": "Sat, 10 Jan 2026 22:20:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369188"
+      },
+      "16083bfc52f1065033746ce0fc437a7c34dcd58ca22077c8f1ca076f3b39fab3": {
+        "title": "物理AI落地的标杆答案，深庭纪给出了户外陪伴的最优解",
+        "link": "https://www.tmtpost.com/7837444.html",
+        "published_date": "Sat, 10 Jan 2026 19:44:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369202"
+      },
+      "fb44906a585aab9737320e454b84da26be98862cb64c8f11f00f3c805da80998": {
+        "title": "汇源控制权争夺陷入口水战，资本博弈僵局何解？",
+        "link": "https://www.tmtpost.com/7838118.html",
+        "published_date": "Sat, 10 Jan 2026 19:17:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369212"
+      },
+      "f3f35fca871dc7bb80b28cb0911e3f02c118bb7a1b9c952894d5c6c8d8560836": {
+        "title": "2025，蔚小理的“生死时速”",
+        "link": "https://www.tmtpost.com/7837797.html",
+        "published_date": "Sat, 10 Jan 2026 16:57:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369225"
+      },
+      "cf8244a75fe4df2fad72d61ab82f8835474e6a53a236689cdb47e4cb4a7c26f4": {
+        "title": "2026 CES观察：国产“硅基大军”的集体出征",
+        "link": "https://www.tmtpost.com/7837886.html",
+        "published_date": "Sat, 10 Jan 2026 16:57:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369236"
+      },
+      "3d02b1f8a77203e222524947d10636ffd065e5f23d126b0c4f9c45842ed34323": {
+        "title": "ChatGPT跟进阿福，AI健康按下快进键",
+        "link": "https://www.tmtpost.com/7837935.html",
+        "published_date": "Sat, 10 Jan 2026 16:57:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369246"
+      },
+      "c62c524d329c7b335022622027801b50c63eef20d747f81fbc2c40cf56d387fd": {
+        "title": "可能被“没收”一半股权，谷歌创始人逃离硅谷",
+        "link": "https://www.tmtpost.com/7837965.html",
+        "published_date": "Sat, 10 Jan 2026 16:57:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369257"
+      },
+      "883e4250b70e60357a9dd88d15fa905f928df24d9fdc760368236b0b06d3574c": {
+        "title": "编程表现超越Claude和GPT？DeepSeek准备第二次震惊全世界",
+        "link": "https://www.tmtpost.com/7837718.html",
+        "published_date": "Sat, 10 Jan 2026 16:44:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369267"
+      },
+      "1f96fdcd43de8d0c7b15237ea95669aafa57c543a261e0c68712837b88474df5": {
+        "title": "2025餐饮业：新茶饮IPO年，资本盛宴后的供应链暗战",
+        "link": "https://www.tmtpost.com/7837628.html",
+        "published_date": "Sat, 10 Jan 2026 16:31:00 GMT",
+        "first_seen": "2026-01-10T23:22:24.369277"
+      },
+      "0d8a3e9fe0ea42a2041af233cf9c8f5daed7c56ad08974e844688d20e8a7a217": {
+        "title": "大模型第一股，没等来市场狂欢",
+        "link": "https://www.tmtpost.com/7837624.html",
+        "published_date": "Sat, 10 Jan 2026 16:31:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.114216"
+      },
+      "9f524e58166b95e43a7e124b8b6d9003f3a0328b15347dde8e797e27704c9781": {
+        "title": "反内卷再次升级，这次能刹住外卖大战吗？",
+        "link": "https://www.tmtpost.com/7837616.html",
+        "published_date": "Sat, 10 Jan 2026 16:31:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.114622"
+      },
+      "0e493ef7d2d3a58fb26ad042be87f2b0a50bcd1c8d7b8a1f1641949118968245": {
+        "title": "CES观察：AI硬件迎来黄金时代，中国机器人“进场打工”",
+        "link": "https://www.tmtpost.com/7837604.html",
+        "published_date": "Sat, 10 Jan 2026 16:31:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.115240"
+      },
+      "b69cf180998b511f7b73840d1d81dba75f3f9c2b104acea6902b91b349d8ebde": {
+        "title": "发生在CES的六场对话：来自深圳的 AI 硬件“外卷”",
+        "link": "https://www.infoq.cn/article/05bVyOA1exU97VWzZz1B?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Jan 2026 17:11:00 GMT",
+        "first_seen": "2026-01-10T23:22:15.115882"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-10T08:30:18.935485",
-    "Technology": "2026-01-10T08:30:28.365723",
-    "Finance": "2026-01-10T08:30:18.792345"
+    "AI": "2026-01-10T23:22:15.043409",
+    "Technology": "2026-01-10T23:22:24.372760",
+    "Finance": "2026-01-10T23:22:14.905932"
   }
 }
