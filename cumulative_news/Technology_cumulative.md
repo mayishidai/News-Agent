@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-10 05:24
+**最后更新时间**: 2026-01-10 08:30
+
+---
+
+## 🆕 最新更新 (2026-01-10 08:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [快手AI可以更稳点](https://www.tmtpost.com/7837543.html)
+**发布时间**: 2026-01-10 15:49
+
+#### [美国斩杀线vs云南秋那桶](https://www.tmtpost.com/7837551.html)
+**发布时间**: 2026-01-10 15:49
+
+#### [大疆忙着抢别人地盘，影石却来偷家了](https://www.tmtpost.com/7837782.html)
+**发布时间**: 2026-01-10 15:49
+
+#### [RGB-Mini LED跨代领先，中国厂商站稳全球显示行业高地](https://www.tmtpost.com/7837893.html)
+**发布时间**: 2026-01-10 13:24
+
+#### [分析师将Credo视为2026年“首选”AI股票后，其股价大涨](https://www.tmtpost.com/7837821.html)
+**发布时间**: 2026-01-10 10:22
+
+#### [Adobe股价下跌，分析师表示，随着竞争加剧，Adobe股价“将维持区间波动”](https://www.tmtpost.com/7837819.html)
+**发布时间**: 2026-01-10 10:21
+
+#### [随着公用事业公司在AI投入1万亿美元，Entergy和NiSource或将成为赢家，但对股息投资者来说未必](https://www.tmtpost.com/7837817.html)
+**发布时间**: 2026-01-10 10:21
+
+#### [SolarEdge股价上涨，多位分析师看好后市表现](https://www.tmtpost.com/7837815.html)
+**发布时间**: 2026-01-10 10:20
+
+#### [欧洲防务股大涨，这三只股票走势尤为强劲](https://www.tmtpost.com/7837813.html)
+**发布时间**: 2026-01-10 10:20
+
+#### [Tilray股价未能守住因特朗普消息带来的涨幅，业绩表现或能助其反弹](https://www.tmtpost.com/7837809.html)
+**发布时间**: 2026-01-10 10:15
+
+#### [经历了艰难的2025年后，洛克希德·马丁的股票有望在2026年表现更好](https://www.tmtpost.com/7837807.html)
+**发布时间**: 2026-01-10 10:14
+
+#### [现在正是持有Generac股票的最佳时机](https://www.tmtpost.com/7837776.html)
+**发布时间**: 2026-01-10 09:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！](https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-10 13:30
 
 ---
 
