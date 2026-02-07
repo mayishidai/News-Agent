@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Feb 2026 05:43:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Feb 2026 05:44:16 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 08:38:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>有的AI在算命，有的AI在救命</title>
-      <link>https://www.qbitai.com/2026/02/377529.html</link>
-      <description>&lt;![CDATA[有的AI在算命，有的AI在救命]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 05:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377529.html</guid>
+      <title>王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」</title>
+      <link>https://www.qbitai.com/2026/02/377564.html</link>
+      <description>&lt;![CDATA[王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 07:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377564.html</guid>
       <category>AI</category>
     </item>
   </channel>
