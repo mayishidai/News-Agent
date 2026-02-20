@@ -11762,13 +11762,19 @@
         "link": "https://sspai.com/post/94704",
         "published_date": "Fri, 20 Feb 2026 11:45:00 GMT",
         "first_seen": "2026-02-20T05:56:13.168296"
+      },
+      "7eb542fa28fc6a57c59d6232ac0b90d0a965cd6ec2ec33dde42a3796388c0d49": {
+        "title": "Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle",
+        "link": "https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 16:38:00 GMT",
+        "first_seen": "2026-02-20T08:44:54.010727"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-20T05:56:13.116096",
-    "Technology": "2026-02-20T05:56:22.478076",
-    "Finance": "2026-02-20T05:56:12.951999"
+    "AI": "2026-02-20T08:44:53.964557",
+    "Technology": "2026-02-20T08:44:54.032427",
+    "Finance": "2026-02-20T08:44:53.820269"
   }
 }
