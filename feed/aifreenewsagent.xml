@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Apr 2026 23:39:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2026 23:41:38 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 09:13:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:16:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ConvApparel: Measuring and bridging the realism gap in user simulators</title>
-      <link>https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/</link>
-      <description>&lt;![CDATA[ConvApparel: Measuring and bridging the realism gap in user simulators]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/</guid>
+      <title>LeCun点赞：国产开源模型占领硅谷，性价比超10倍</title>
+      <link>https://www.qbitai.com/2026/04/398807.html</link>
+      <description>&lt;![CDATA[LeCun点赞：国产开源模型占领硅谷，性价比超10倍]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 08:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398807.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…</title>
-      <link>https://www.qbitai.com/2026/04/398157.html</link>
-      <description>&lt;![CDATA[神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398157.html</guid>
+      <title>刷屏的SBTI，底层算法有点东西…</title>
+      <link>https://www.qbitai.com/2026/04/398788.html</link>
+      <description>&lt;![CDATA[刷屏的SBTI，底层算法有点东西…]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 08:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398788.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>生数科技完成近20 亿元 B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座</title>
+      <link>https://www.qbitai.com/2026/04/398772.html</link>
+      <description>&lt;![CDATA[生数科技完成近20 亿元 B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 07:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398772.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>太初元碁完成智谱GLM-5.1即发即适配</title>
+      <link>https://www.qbitai.com/2026/04/398752.html</link>
+      <description>&lt;![CDATA[太初元碁完成智谱GLM-5.1即发即适配]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398752.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>这帮清华的，造了一个让龙虾“安全着陆”的新物种</title>
+      <link>https://www.qbitai.com/2026/04/398750.html</link>
+      <description>&lt;![CDATA[这帮清华的，造了一个让龙虾“安全着陆”的新物种]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398750.html</guid>
       <category>AI</category>
     </item>
   </channel>
