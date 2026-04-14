@@ -1311,18 +1311,6 @@
       }
     },
     "Technology": {
-      "3bf4de7d0f1db2bf45b9a7d10b0739538fcb32f6f49c6d226f171fbc0bd661e4": {
-        "title": "龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴",
-        "link": "https://www.tmtpost.com/7914749.html",
-        "published_date": "Sun, 15 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-15T08:43:30.358931"
-      },
-      "2c167a1d5ced21f7597aff4f1294c402e0c6e94d32e8c9207ce7e0a57e354740": {
-        "title": "价值判断：涨停板的投资机会和风险提示（3月13日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7914792.html",
-        "published_date": "Sun, 15 Mar 2026 13:45:00 GMT",
-        "first_seen": "2026-03-15T08:43:30.359141"
-      },
       "986fc7732c9b96cf3ddf2a476d4a8e92bcd2d4d7909eb5861d49a96f4d9cbd0f": {
         "title": "Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+",
         "link": "https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&utm_medium=article",
@@ -11066,13 +11054,25 @@
         "link": "https://sspai.com/post/108614",
         "published_date": "Tue, 14 Apr 2026 08:35:00 GMT",
         "first_seen": "2026-04-14T06:55:52.872757"
+      },
+      "ce3ad06d1dabeb11d507f3c5224b5126d19df17d4900390c51fcd36bb5a2f132": {
+        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
+        "link": "https://sspai.com/post/108005",
+        "published_date": "Tue, 14 Apr 2026 15:38:00 GMT",
+        "first_seen": "2026-04-14T09:23:55.409119"
+      },
+      "64376ceaf47956004a1901010827ee7543290b16d6c775761ffe750b2e54916a": {
+        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
+        "first_seen": "2026-04-14T09:23:55.409363"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-14T06:55:43.533421",
-    "Technology": "2026-04-14T06:55:52.874293",
-    "Finance": "2026-04-14T06:55:43.403231"
+    "AI": "2026-04-14T09:23:55.318279",
+    "Technology": "2026-04-14T09:23:55.434000",
+    "Finance": "2026-04-14T09:23:55.202089"
   }
 }
