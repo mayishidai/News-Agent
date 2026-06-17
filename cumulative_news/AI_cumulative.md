@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-16 01:41
+**最后更新时间**: 2026-06-17 00:19
+
+---
+
+## 🆕 最新更新 (2026-06-17 00:19)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [From pixels to planning: Earth AI for nature restoration](https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/)
+**发布时间**: 2026-06-16 17:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [一个模型控制手脚腰身！机器人终于学会全身协同干精细活了](https://www.qbitai.com/2026/06/436073.html)
+**发布时间**: 2026-06-16 13:23
+
+#### [和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！](https://www.qbitai.com/2026/06/435953.html)
+**发布时间**: 2026-06-16 13:02
+
+#### [网易有道首席科学家段亦涛：让AI技术扎根业务场景](https://www.qbitai.com/2026/06/435950.html)
+**发布时间**: 2026-06-16 10:36
+
+#### [不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊](https://www.qbitai.com/2026/06/435931.html)
+**发布时间**: 2026-06-16 09:31
+
+#### [SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员](https://www.qbitai.com/2026/06/435882.html)
+**发布时间**: 2026-06-16 06:40
+
+#### [三连发！阿里发布首个具身大模型Qwen-Robot系列](https://www.qbitai.com/2026/06/435873.html)
+**发布时间**: 2026-06-16 04:39
+
+#### [从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”](https://www.qbitai.com/2026/06/435859.html)
+**发布时间**: 2026-06-16 04:10
+
+#### [沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台](https://www.qbitai.com/2026/06/435853.html)
+**发布时间**: 2026-06-16 02:47
+
+#### [上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界](https://www.qbitai.com/2026/06/435861.html)
+**发布时间**: 2026-06-16 01:32
 
 ---
 
