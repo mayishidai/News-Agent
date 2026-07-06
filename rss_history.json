@@ -1,48 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "8a3312ad582c87fc8c63c2a5f964ef59ec1829dd946b94c1e1a1eae2f2b7dcf8": {
-        "title": "有人靠CPU把AI算力密度卷到了新高度",
-        "link": "https://www.qbitai.com/2026/06/431045.html",
-        "published_date": "Fri, 05 Jun 2026 13:16:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.205589"
-      },
-      "6fd68a825cbdcf3e10c0f31ec64615694bf46a222915ebfe712130cc3b8ffa7b": {
-        "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
-        "link": "https://www.qbitai.com/2026/06/431033.html",
-        "published_date": "Fri, 05 Jun 2026 10:53:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.205771"
-      },
-      "2091e9187cdfac632eca1966a1fd6c153b8a6b5971d8945d174fbdc0b04eef36": {
-        "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
-        "link": "https://www.qbitai.com/2026/06/431027.html",
-        "published_date": "Fri, 05 Jun 2026 10:46:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.205993"
-      },
-      "3eb92538acfa0cb7f9845ce84e72477696fbe324b1a83afccdd4583ac30453a2": {
-        "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
-        "link": "https://www.qbitai.com/2026/06/430757.html",
-        "published_date": "Fri, 05 Jun 2026 09:40:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.206303"
-      },
-      "932c73158990519e2127ba88e69a9f457912c271243c0f3b2c7469f048046365": {
-        "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
-        "link": "https://www.qbitai.com/2026/06/431014.html",
-        "published_date": "Fri, 05 Jun 2026 09:16:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.206583"
-      },
-      "3004780f0e4a2c3e5eb38956fc9cf06bcc2717bee155bfea7bd445c58e9a032c": {
-        "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
-        "link": "https://www.qbitai.com/2026/06/430758.html",
-        "published_date": "Fri, 05 Jun 2026 08:55:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.206839"
-      },
-      "13f0535a4b516966b9aea8da77ec12c1e67760d0805120f4494f19f8e35ba420": {
-        "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
-        "link": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
-        "published_date": "Fri, 05 Jun 2026 11:26:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.207482"
-      },
       "58cccbf647c88fb10e3fc45704937d4227572504de554bf7b9eb573e5a534fde": {
         "title": "港股鞋王千百度，一夜完成AI数据公司转型",
         "link": "https://www.qbitai.com/2026/06/431056.html",
@@ -1212,117 +1170,21 @@
         "link": "https://www.qbitai.com/2026/07/442958.html",
         "published_date": "Sat, 04 Jul 2026 05:52:00 GMT",
         "first_seen": "2026-07-04T07:50:53.547416"
+      },
+      "54f38a2068e090da7928e6cc9c0577a5f60c4189a4ea42b5196a4b5325bb6b61": {
+        "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
+        "link": "https://www.qbitai.com/2026/07/443339.html",
+        "published_date": "Sun, 05 Jul 2026 14:30:00 GMT",
+        "first_seen": "2026-07-06T00:11:32.226569"
+      },
+      "a816037393e5462439e76cc41f2bdd8e2363436a6f27d533e08d7f49a30a727e": {
+        "title": "华为更新韬定律论文！",
+        "link": "https://www.qbitai.com/2026/07/443186.html",
+        "published_date": "Sun, 05 Jul 2026 13:38:00 GMT",
+        "first_seen": "2026-07-06T00:11:32.226676"
       }
     },
     "Technology": {
-      "a3719b2cd6e14c3bdcaf0b04c72da9fb353925c74f0938ccd17640cf4f5b68f4": {
-        "title": "从纳尔股份到日联科技：菲莱测试并购案背后的估值 V 型反转 | 并购一线",
-        "link": "https://www.tmtpost.com/8017241.html",
-        "published_date": "Fri, 05 Jun 2026 21:19:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660007"
-      },
-      "2157491b09f98b6231ade3a58e7ba8a638515630139a4c789dee466d0e2965c6": {
-        "title": "众为资本投资Gentle Monster母公司；安踏集团发布2025年度ESG报告；lululemon2026财年Q1中国大陆净营收同增30%｜消研所周报",
-        "link": "https://www.tmtpost.com/8016971.html",
-        "published_date": "Fri, 05 Jun 2026 18:17:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660039"
-      },
-      "0293959a8d27c773259d9e4babcf929c04c5cba7cb7393a2d3748061c8618d02": {
-        "title": "小红书开踢世界杯，想到了难做到",
-        "link": "https://www.tmtpost.com/8015951.html",
-        "published_date": "Fri, 05 Jun 2026 17:59:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660053"
-      },
-      "332a8db2e3e01b8169a61ef01fb3c91ea97ac3d87524f3d999c923f63832b4cb": {
-        "title": "宇树、智元的线下门店叙事：具身智能正迈进商业周期",
-        "link": "https://www.tmtpost.com/8016837.html",
-        "published_date": "Fri, 05 Jun 2026 17:57:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660065"
-      },
-      "81f1b41292796a9a7ee7659d3b6d8425e7f22a662af4d234d461c606d0d98ecb": {
-        "title": "AI要自己造AI了？Anthropic最新暴论，到底有多真？",
-        "link": "https://www.tmtpost.com/8016791.html",
-        "published_date": "Fri, 05 Jun 2026 17:46:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660076"
-      },
-      "3c016239f9dbd0edb4e8c2e5788a776a3698c671f1478eae7796fe6b5e715f4b": {
-        "title": "速食荞麦面，把减脂人群坑惨了？",
-        "link": "https://www.tmtpost.com/8016482.html",
-        "published_date": "Fri, 05 Jun 2026 17:46:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660086"
-      },
-      "8dd4d49db92bc5a53fb0ece4ca7b32d8b2197bcd157a4d3b304832c289249d80": {
-        "title": "LABUBU被模仿，泡泡玛特为什么必须打这一仗",
-        "link": "https://www.tmtpost.com/8016536.html",
-        "published_date": "Fri, 05 Jun 2026 17:46:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660096"
-      },
-      "2a6470021df19411ddb1068050a53ccdd26b2a650a13be7fcbf6abbbf4fb2f9c": {
-        "title": "长城魏建军公开“炮轰”,“小病大修”的灰色链条有多坑人？",
-        "link": "https://www.tmtpost.com/8016582.html",
-        "published_date": "Fri, 05 Jun 2026 17:46:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660139"
-      },
-      "a4d1769da4a748cc771d89b97ec23ed04108124f175ac0542ff650d5ade7b13c": {
-        "title": "张雪夺冠后，摩托车智能化行至何处？",
-        "link": "https://www.tmtpost.com/8016703.html",
-        "published_date": "Fri, 05 Jun 2026 17:34:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660153"
-      },
-      "5b3a83e04939e1ea76213fe5a1a97f15f3b3e0eeb0aea1a12e0c162ee046d4fc": {
-        "title": "±0.05mm精度的矿用机器人守得住险境，却守不住盈利",
-        "link": "https://www.tmtpost.com/8016658.html",
-        "published_date": "Fri, 05 Jun 2026 17:34:00 GMT",
-        "first_seen": "2026-06-06T00:10:07.660163"
-      },
-      "e7874166c968f48022afcd7313d786adde4e7903397454daf7a7922c42aa1c3c": {
-        "title": "当“小登们”捧起世界杯",
-        "link": "https://www.tmtpost.com/8016568.html",
-        "published_date": "Fri, 05 Jun 2026 17:34:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.300926"
-      },
-      "7a81e964d6c864ada71b09a7a0ab4c1d476c3c53017c711bf6b895f4ee3f8453": {
-        "title": "张小龙“失控”背后，粉笔的AI赌局与现实困境",
-        "link": "https://www.tmtpost.com/8016611.html",
-        "published_date": "Fri, 05 Jun 2026 17:34:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.301467"
-      },
-      "24eb8ca15ed5b197b41f4ae3992fde71cba9aa4a6abf95a7d95b5df7fb16d008": {
-        "title": "电子茅台崩盘，没加价买富士相机的年轻人赚大了",
-        "link": "https://www.tmtpost.com/8016643.html",
-        "published_date": "Fri, 05 Jun 2026 17:29:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.301997"
-      },
-      "cff03f50f97955bf732615b9acb6462da0e1f4b670737d38b854dec98a82cb67": {
-        "title": "杀进商场做精致小正餐，“价格刺客”要翻红？",
-        "link": "https://www.tmtpost.com/8016523.html",
-        "published_date": "Fri, 05 Jun 2026 17:29:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.302549"
-      },
-      "a6a71496dd3956540cca9d1db0c7f2538218322a4c7a593103958a11ae5d742c": {
-        "title": "本周看什么 | 最近值得一看的 8 部作品",
-        "link": "https://sspai.com/post/110786",
-        "published_date": "Fri, 05 Jun 2026 18:19:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.303179"
-      },
-      "c34c0092974235273450515bf9592cb9d93dc7109a946d73a0235d8bffd29a37": {
-        "title": "macOS 存储管理漫谈：去重是节约空间的最好方法",
-        "link": "https://sspai.com/prime/story/macos-storage-management-deduplication",
-        "published_date": "Fri, 05 Jun 2026 18:00:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.303888"
-      },
-      "5bdd4ad3c3e6d3b12dee5e36fb01cc7591d6cc999f431a9b6a1b2d3b81a48ba5": {
-        "title": "31 位普通人，给一只背包开出了成绩单",
-        "link": "https://sspai.com/post/110666",
-        "published_date": "Fri, 05 Jun 2026 16:55:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.304652"
-      },
-      "fc500a624b4210fccae0702e6ccf2b7ab1b07224b1dae67f25dad4cb4cad153c": {
-        "title": "架构变更案例：面向演进式架构的实用方法",
-        "link": "https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Jun 2026 18:03:00 GMT",
-        "first_seen": "2026-06-06T00:09:58.305357"
-      },
       "40d743907173aef6f30983c628154129d054dd0c9aba140cdf8698f2f4dea69d": {
         "title": "A股大消费已经跌出幻觉，食品饮料龙头们需要一场叙事重启",
         "link": "https://www.tmtpost.com/8017594.html",
@@ -8894,13 +8756,49 @@
         "link": "https://sspai.com/post/111632",
         "published_date": "Sun, 05 Jul 2026 17:08:00 GMT",
         "first_seen": "2026-07-05T10:25:44.003047"
+      },
+      "5fe1984e13d33f6e422c14df5b9b64cdb9d55f02abeeb89490eb2def15cfd79f": {
+        "title": "The Strategic Squeeze: Inside the High-Stakes Capacity War for Domestic AI Chips",
+        "link": "https://www.tmtpost.com/8053507.html",
+        "published_date": "Mon, 06 Jul 2026 08:11:00 GMT",
+        "first_seen": "2026-07-06T00:11:32.060646"
+      },
+      "22d7063747ad3ca772e69916ce8bf1588c69f91df424a72b6161c84074e2f228": {
+        "title": "Edge AI Daily 早报（7月6日）",
+        "link": "https://www.tmtpost.com/8053491.html",
+        "published_date": "Mon, 06 Jul 2026 07:59:00 GMT",
+        "first_seen": "2026-07-06T00:11:32.060861"
+      },
+      "40fd6ed17787e60ad85e49d320799f345fdc76496b0f65f6b21fdc39ff5c6964": {
+        "title": "【钛晨报】A股交易新规今起施行：盘后交易全覆盖、5%涨跌停成历史；豆包、千问齐宣布，将下线智能体功能；万亿中际旭创，紧急澄清",
+        "link": "https://www.tmtpost.com/8053349.html",
+        "published_date": "Mon, 06 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-06T00:11:32.061153"
+      },
+      "9e50f3aecf0c885386ea63b607f8be6d3843369205c1217a4e7e600cf9b937d0": {
+        "title": "【ESG-V评级观察】北京上市公司价值重估：金融与硬科技抬升上限，地产与部分传统产业承压",
+        "link": "https://www.tmtpost.com/8053400.html",
+        "published_date": "Sun, 05 Jul 2026 21:20:00 GMT",
+        "first_seen": "2026-07-06T00:11:32.061574"
+      },
+      "83a1a8d714bc64e9796106b1e169aa8960d224af8e356cd03250c0be47af25d2": {
+        "title": "价值实现：股东回报与可持续增长",
+        "link": "https://www.tmtpost.com/8053398.html",
+        "published_date": "Sun, 05 Jul 2026 21:19:00 GMT",
+        "first_seen": "2026-07-06T00:11:32.061831"
+      },
+      "ec6948575fb5d24a39c21a14d22601149de08282fb226c1f1ed970e6713db06d": {
+        "title": "价值判断： 跌停板的投资机会和风险提示 （7月3日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/8053395.html",
+        "published_date": "Sun, 05 Jul 2026 21:19:00 GMT",
+        "first_seen": "2026-07-06T00:11:32.062283"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-07-05T10:25:44.169078",
-    "Technology": "2026-07-05T10:25:44.031949",
-    "Finance": "2026-07-05T10:25:44.051775"
+    "AI": "2026-07-06T00:11:32.233837",
+    "Technology": "2026-07-06T00:11:32.090701",
+    "Finance": "2026-07-06T00:11:32.110065"
   }
 }
