@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 23:59
+**最后更新时间**: 2026-07-21 10:31
+
+---
+
+## 🆕 最新更新 (2026-07-21 10:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [茅台2026年两连涨：这不是品牌力，而是一场迟到的“追认”](https://www.tmtpost.com/8071770.html)
+**发布时间**: 2026-07-21 18:05
+
+#### [男人的生意不好做，广药要赚女人的钱](https://www.tmtpost.com/8074116.html)
+**发布时间**: 2026-07-21 17:55
+
+#### [诺兰强势归来，《奥德赛》创多项纪录](https://www.tmtpost.com/8073989.html)
+**发布时间**: 2026-07-21 17:54
+
+#### [西瓜，真的几分钱一斤了？](https://www.tmtpost.com/8073722.html)
+**发布时间**: 2026-07-21 17:54
+
+#### [安踏跑得最快的，已经不是安踏和FILA](https://www.tmtpost.com/8073976.html)
+**发布时间**: 2026-07-21 17:54
+
+#### [具身机器人进家，只差一套“情感世界模型”](https://www.tmtpost.com/8073768.html)
+**发布时间**: 2026-07-21 17:22
+
+#### [美敦力重夺第一、雅培暴涨、强生憋大招：全球心血管巨头Q2财报大揭秘](https://www.tmtpost.com/8072379.html)
+**发布时间**: 2026-07-21 17:22
+
+#### [蚂蚁国际“曲线救国”](https://www.tmtpost.com/8074042.html)
+**发布时间**: 2026-07-21 17:22
+
+#### [不到一成赔付额，禾赛和图达通都没赢痛快](https://www.tmtpost.com/8073832.html)
+**发布时间**: 2026-07-21 17:20
+
+#### [千问进苹果，大模型开始「隐身」](https://www.tmtpost.com/8073933.html)
+**发布时间**: 2026-07-21 17:14
+
+#### [机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛](https://www.tmtpost.com/8073956.html)
+**发布时间**: 2026-07-21 17:11
+
+#### [林涌被一免到底，海通的账还没算完](https://www.tmtpost.com/8073885.html)
+**发布时间**: 2026-07-21 17:07
+
+#### [2026体育营销下半场：品牌不造势，开始“造宇宙”](https://www.tmtpost.com/8073909.html)
+**发布时间**: 2026-07-21 16:56
+
+#### [2026WAIC收官，看见物理AI的落地与未来](https://www.tmtpost.com/8073569.html)
+**发布时间**: 2026-07-21 16:56
+
+#### [越疆科技：上会前夕遭联合创始人实名举报，九年累亏3.45亿不差钱仍募资补流｜IPO观察](https://www.tmtpost.com/8073367.html)
+**发布时间**: 2026-07-21 16:55
+
+#### [Global Ambitions Meet Practical Challenges at WAIC 2026](https://www.tmtpost.com/8073813.html)
+**发布时间**: 2026-07-21 14:33
+
+#### [智谱保卫硅谷](https://www.tmtpost.com/8073535.html)
+**发布时间**: 2026-07-21 13:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [通往数据主权之路：本地优先计算面临的挑战与优先事项](https://www.infoq.cn/article/p6lR4aHNP5N7mdmw3UiJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 17:21
+
+#### [Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”](https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 16:14
+
+#### [OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界](https://www.infoq.cn/article/UZ1j5LXmjNgiCfu5QL0s?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 15:22
+
+#### [16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron](https://www.infoq.cn/article/6yN5sFxOqoBX2h32YtjC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:53
+
+#### [龙虾之父一条推文，Loop 时代终结？](https://www.infoq.cn/article/58Vmogt2bAU6ciTIAuDt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:48
+
+#### [所有Harness终将长成“龙虾”，但最后活下来的只有几只](https://www.infoq.cn/article/pFXQ6Q0XyNTuIxQsr7dM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:43
+
+#### [马斯克连夜开源Grok Build，但84万行代码里还留着上传用户整个代码库的痕迹](https://www.infoq.cn/article/ob3ZAxR7XI1YiJzWwb1D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:40
+
+#### [微软跟进谷歌支持 Go 语言开发 AI 智能体，OpenAI 与 Anthropic 落后一步](https://www.infoq.cn/article/JRHq6KiOTaA3IKMUD9TZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:31
+
+#### [DoorDash 如何打造了一款不完全依赖大型语言模型（LLM）的 AI 购物助手](https://www.infoq.cn/article/QAIQh8E5yNr4i4RAYySz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:15
+
+#### [Java 近期新闻：TornadoVM 5、JHipster、Google ADK、OmniFish Build of Payara、Vidocq 发布](https://www.infoq.cn/article/pwI9ti1vx0uPcSZRg9zL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 11:00
+
+#### [OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞](https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 09:52
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车](https://sspai.com/post/112582)
+**发布时间**: 2026-07-21 17:00
+
+#### [装上 Fedora 的 Surface Pro：一台老设备的新可能](https://sspai.com/post/112200)
+**发布时间**: 2026-07-21 15:00
+
+#### [App+1 | 把「从长视频截取片段」做到极致：Trimly](https://sspai.com/post/111569)
+**发布时间**: 2026-07-21 11:00
+
+#### [派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等](https://sspai.com/post/112565)
+**发布时间**: 2026-07-21 08:02
 
 ---
 
