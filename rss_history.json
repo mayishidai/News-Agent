@@ -11360,13 +11360,79 @@
         "link": "https://www.tmtpost.com/8104548.html",
         "published_date": "Sat, 15 Aug 2026 13:07:00 GMT",
         "first_seen": "2026-08-15T08:33:55.341434"
+      },
+      "8f51a88ab8909012c8d08d53c00bb81510b9b84a3e5dd7792d0739fd31f74888": {
+        "title": "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+        "link": "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 15 Aug 2026 21:52:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517290"
+      },
+      "0088da1ce2ef1c7f76693d98c4b21fb2d00c46828173f65e820b595c63fe0a13": {
+        "title": "字节AI，先慢后快？",
+        "link": "https://www.tmtpost.com/8104642.html",
+        "published_date": "Sat, 15 Aug 2026 20:31:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517319"
+      },
+      "142f1b9fb692a2ab662370c687d409383cb25c2a57d5b6d039d1ad505692e6df": {
+        "title": "奥德赛、龙餐馆，是电影的解药吗？",
+        "link": "https://www.tmtpost.com/8104520.html",
+        "published_date": "Sat, 15 Aug 2026 20:28:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517333"
+      },
+      "3a11184ccc275aafa6f5fded70203f7779844e2532e2b2e63a208ee74976057f": {
+        "title": "AI正在批量制造“幽灵”",
+        "link": "https://www.tmtpost.com/8104535.html",
+        "published_date": "Sat, 15 Aug 2026 20:28:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517344"
+      },
+      "7079b05122ce19e7f163044d49c73f3f2fb3a72b9a5564f8f4af8a51e4ee2328": {
+        "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+        "link": "https://www.tmtpost.com/8104508.html",
+        "published_date": "Sat, 15 Aug 2026 20:04:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517353"
+      },
+      "07038d4fb957c3ae0fcc4e82d6a340dd508bf41ae84f7da9fb6a70880602e755": {
+        "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
+        "link": "https://www.tmtpost.com/8104597.html",
+        "published_date": "Sat, 15 Aug 2026 20:04:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517368"
+      },
+      "76dadae42212de55bf36a6b934d695ca0a8f3828c43f7f5b9b089c93045f2576": {
+        "title": "美团不开药店，却想成为25万家药店的“总店”？",
+        "link": "https://www.tmtpost.com/8104282.html",
+        "published_date": "Sat, 15 Aug 2026 18:23:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517378"
+      },
+      "3578d76e098d76b14889b8ebeb81e633f5f432c045c58a1746019a0f159f7f10": {
+        "title": "从浅草寺到时代广场，影石海外开店逻辑是什么？",
+        "link": "https://www.tmtpost.com/8104118.html",
+        "published_date": "Sat, 15 Aug 2026 18:00:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517387"
+      },
+      "d285d542f69d81f0941d16afad16a93547165e9e7a7de7e955382be0d58d3add": {
+        "title": "528亿，腾讯终于开始“烧钱”了",
+        "link": "https://www.tmtpost.com/8103940.html",
+        "published_date": "Sat, 15 Aug 2026 17:41:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517397"
+      },
+      "ba9dc574696b04ad9d616bcc4b90a576239aba333782ebc1836a7663704d6f77": {
+        "title": "线上品牌批量涌入商场，服饰大洗牌来了",
+        "link": "https://www.tmtpost.com/8104022.html",
+        "published_date": "Sat, 15 Aug 2026 16:40:00 GMT",
+        "first_seen": "2026-08-15T23:24:28.517407"
+      },
+      "5f11283c8a90343eb4433786a3efba2b7fb1a96f26516fcacb39fc58127731aa": {
+        "title": "3 个月烧掉 105 亿，腾讯急了",
+        "link": "http://www.geekpark.net/news/368852",
+        "published_date": "Sat, 15 Aug 2026 16:46:00 GMT",
+        "first_seen": "2026-08-15T23:24:19.089525"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-15T08:33:55.482237",
-    "Technology": "2026-08-15T08:33:55.365472",
-    "Finance": "2026-08-15T08:33:55.380735"
+    "AI": "2026-08-15T23:24:28.680221",
+    "Technology": "2026-08-15T23:24:28.538384",
+    "Finance": "2026-08-15T23:24:28.559045"
   }
 }
