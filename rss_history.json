@@ -1392,6 +1392,12 @@
         "link": "https://www.qbitai.com/2026/08/476070.html",
         "published_date": "Thu, 20 Aug 2026 01:06:00 GMT",
         "first_seen": "2026-08-20T05:35:14.330083"
+      },
+      "04854861f826d70c02a8cff536c72ef78c2e3247eeab2589292ed047c5fd65bf": {
+        "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+        "link": "https://www.qbitai.com/2026/08/476120.html",
+        "published_date": "Thu, 20 Aug 2026 06:17:00 GMT",
+        "first_seen": "2026-08-20T08:42:32.133981"
       }
     },
     "Technology": {
@@ -11498,13 +11504,127 @@
         "link": "https://sspai.com/post/113638",
         "published_date": "Thu, 20 Aug 2026 08:46:00 GMT",
         "first_seen": "2026-08-20T05:35:14.200106"
+      },
+      "6ca288c8d41e126c2d7445adcd6456f8f92f8de6f4ceb72189c409346a13aea3": {
+        "title": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+        "link": "https://www.infoq.cn/article/CPidTC2YJ7AvlU7jUgiq?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 20 Aug 2026 16:12:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980344"
+      },
+      "749ac50149ab3341488e99f54bbea441c0d7a0396b0d0eb91acd7cf936d439f9": {
+        "title": "Buildpacks 将容器加固控制点从 Dockerfile 中移出",
+        "link": "https://www.infoq.cn/article/8EPJjIlk5WwgiXphjxEW?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 20 Aug 2026 15:39:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980395"
+      },
+      "298eb5dd401576bb72e603513da0f8ee28552a22db3fd951f3a8148fecaee587": {
+        "title": "将可理解性作为架构特性：无法理解的系统无法安全演进",
+        "link": "https://www.infoq.cn/article/d5mWBGZxB2l2vRTO8wFU?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 20 Aug 2026 14:00:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980371"
+      },
+      "d5e3736d9fee74f63e44dc83f89ed922e634ff55db1bc72ca32fb0ecc3dd370c": {
+        "title": "疫苗的东风终于来了",
+        "link": "https://www.tmtpost.com/8110363.html",
+        "published_date": "Thu, 20 Aug 2026 15:45:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.540483"
+      },
+      "091c8b6ec212bdea3ec7b7024be2457f9015a10a7ef43c02d1c64c086e2dbbd6": {
+        "title": "陈冠希开餐厅？潮牌配猪扒饭，“凝结冰室”闯入茶餐厅赛道",
+        "link": "https://www.tmtpost.com/8110343.html",
+        "published_date": "Thu, 20 Aug 2026 15:45:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980404"
+      },
+      "14e435008e9bf64395ca6569635f4b9e22f8982f68aa636dc094afff7932c5bc": {
+        "title": "DeepSeek里长出了个“鲸鱼娘”",
+        "link": "https://www.tmtpost.com/8110298.html",
+        "published_date": "Thu, 20 Aug 2026 15:45:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980412"
+      },
+      "552f7276c9a2d817acd97fc594b9e8701760c3d4f4ed6e88424c0ed3bddc58ca": {
+        "title": "合肥“跳预言家”的20年",
+        "link": "https://www.tmtpost.com/8110153.html",
+        "published_date": "Thu, 20 Aug 2026 15:45:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980420"
+      },
+      "3c15cc7ca344ffe2d0664c25498687b8a84f8c550aef9c669442cfa882f797a2": {
+        "title": "中博聚力再度加码月之暗面",
+        "link": "https://www.tmtpost.com/8109509.html",
+        "published_date": "Thu, 20 Aug 2026 15:39:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980427"
+      },
+      "0a2f0f98402315a8e8e08cdef210e279ca380d9b6ffded7cd6ffeaae8c6b8333": {
+        "title": "成都车展硬派越野变形记",
+        "link": "https://www.tmtpost.com/8110293.html",
+        "published_date": "Thu, 20 Aug 2026 15:33:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980434"
+      },
+      "5bd4cb889999866a792c203eb1e6335782f4f31b552b5964b3ec6dd25631447d": {
+        "title": "DeepSeek Harness 背后，梁文锋的野心",
+        "link": "https://www.tmtpost.com/8110077.html",
+        "published_date": "Thu, 20 Aug 2026 15:33:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980443"
+      },
+      "43c8c5967bde2229bfca74ba512170ec85873a6a3085080a4291aab145deb51e": {
+        "title": "旺旺和欧派，两个学霸考砸了？",
+        "link": "https://www.tmtpost.com/8110261.html",
+        "published_date": "Thu, 20 Aug 2026 15:33:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.542142"
+      },
+      "976906aa6dcd9d3875c6fb2f4ba3dc45b78d66052add27dd83ed897ea3594f30": {
+        "title": "远信储能：前五大客户贡献超九成收入，经营现金流大起大落｜IPO观察",
+        "link": "https://www.tmtpost.com/8105462.html",
+        "published_date": "Thu, 20 Aug 2026 14:48:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.542627"
+      },
+      "b7e11e81c1037e1dbbe6c670d4ddc9e94af8958b8a70d3bf5cd054f65fdd6b52": {
+        "title": "云动智能：留存利润再度转负，客户依赖严重，申报前夕多家机构集中转让股权｜IPO观察",
+        "link": "https://www.tmtpost.com/8105490.html",
+        "published_date": "Thu, 20 Aug 2026 14:46:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.543279"
+      },
+      "a774091d1ad8bcbf25d31a7a545c5eb60f33a14b023b173e9bdaaeb2939f21ed": {
+        "title": "2026，AI落地要先闯过的三个关口",
+        "link": "https://www.tmtpost.com/8108615.html",
+        "published_date": "Thu, 20 Aug 2026 14:44:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.543697"
+      },
+      "4a0048dfc865eaf6705089cfdda6e325b22282030b42bb6421920c201ad492ee": {
+        "title": "优邦科技：股权转让价差悬殊，临申报股东集中套现，募资补流存争议｜IPO观察",
+        "link": "https://www.tmtpost.com/8110323.html",
+        "published_date": "Thu, 20 Aug 2026 14:43:00 GMT",
+        "first_seen": "2026-08-20T08:42:31.980384"
+      },
+      "30d2969e3f685c3f698c0650a4491983e3c948ac3ffad083cbb7424897b09f30": {
+        "title": "当无人驾驶开始领“工资”，AI司机订阅能成为L4的新生意吗？",
+        "link": "https://www.tmtpost.com/8110263.html",
+        "published_date": "Thu, 20 Aug 2026 13:43:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.545016"
+      },
+      "a77068ce98e58bf5468f9b681942647d80118d87caf468014328a883488ed7d9": {
+        "title": "存储巨头集体回购，“超级周期”走到哪一步了？",
+        "link": "https://www.tmtpost.com/8110150.html",
+        "published_date": "Thu, 20 Aug 2026 13:43:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.545587"
+      },
+      "9896e8071362172fa89692b52d71732f84fdabdfce7641b7d335a1cc16b0e68d": {
+        "title": "MiniMax Design用Agent串联多模型，争夺专业内容生产入口",
+        "link": "https://www.tmtpost.com/8110191.html",
+        "published_date": "Thu, 20 Aug 2026 13:43:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.546395"
+      },
+      "5d260ea3413176695eb10d0879a63fbbde288f88e6ac5f7517461044d7efc7da": {
+        "title": "十年阅读历程，这是我的阅读工具推荐",
+        "link": "https://sspai.com/post/113567",
+        "published_date": "Thu, 20 Aug 2026 15:25:00 GMT",
+        "first_seen": "2026-08-20T08:42:22.546919"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-20T05:35:14.335905",
-    "Technology": "2026-08-20T05:35:14.215254",
-    "Finance": "2026-08-20T05:35:14.232103"
+    "AI": "2026-08-20T08:42:32.140786",
+    "Technology": "2026-08-20T08:42:32.002605",
+    "Finance": "2026-08-20T08:42:32.022139"
   }
 }
