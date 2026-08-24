@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Aug 2026 09:01:00 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 09:01:04 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 23:25:00 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:25:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,75 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>130 亿美元，Hugging Face 要卖了</title>
-      <link>http://www.geekpark.net/news/369289</link>
-      <description>&lt;![CDATA[130 亿美元，Hugging Face 要卖了]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369289</guid>
+      <title>维泛智能完成过亿元种子+轮融资，机器人端侧算力芯片进入产品化阶段</title>
+      <link>https://www.tmtpost.com/8113528.html</link>
+      <description>&lt;![CDATA[维泛智能完成过亿元种子+轮融资，机器人端侧算力芯片进入产品化阶段]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8113528.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>年轻人的网络社交，正在偷偷「鸽化」</title>
-      <link>http://www.geekpark.net/news/369290</link>
-      <description>&lt;![CDATA[年轻人的网络社交，正在偷偷「鸽化」]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369290</guid>
+      <title>硅谷押注的下一个 Harness，是整个桌面操作系统</title>
+      <link>http://www.geekpark.net/news/369298</link>
+      <description>&lt;![CDATA[硅谷押注的下一个 Harness，是整个桌面操作系统]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369298</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球</title>
-      <link>http://www.geekpark.net/news/369283</link>
-      <description>&lt;![CDATA[「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369283</guid>
+      <title>Next.js 16.3 发布：即时导航、开发内存最高降低 90%，构建速度大幅提升</title>
+      <link>https://www.infoq.cn/article/NedlVNN6E9uWbIE3WV07?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Next.js 16.3 发布：即时导航、开发内存最高降低 90%，构建速度大幅提升]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NedlVNN6E9uWbIE3WV07?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 音乐走到「该怎么做」，中国大模型为啥选最难的路？</title>
-      <link>http://www.geekpark.net/news/369273</link>
-      <description>&lt;![CDATA[AI 音乐走到「该怎么做」，中国大模型为啥选最难的路？]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369273</guid>
+      <title>「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」</title>
+      <link>http://www.geekpark.net/news/369302</link>
+      <description>&lt;![CDATA[「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 23:34:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369302</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新</title>
-      <link>http://www.geekpark.net/news/369278</link>
-      <description>&lt;![CDATA[DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369278</guid>
+      <title>说好AI三年回本，阿里转头找股东要800亿“救急”？</title>
+      <link>https://www.tmtpost.com/8113703.html</link>
+      <description>&lt;![CDATA[说好AI三年回本，阿里转头找股东要800亿“救急”？]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8113703.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判</title>
-      <link>http://www.geekpark.net/news/369264</link>
-      <description>&lt;![CDATA[形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 14:18:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369264</guid>
+      <title>说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？</title>
+      <link>https://www.tmtpost.com/8114555.html</link>
+      <description>&lt;![CDATA[说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8114555.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算</title>
-      <link>https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>越失败越要上，这项运动为什么反而让人留下来</title>
+      <link>https://www.tmtpost.com/8114522.html</link>
+      <description>&lt;![CDATA[越失败越要上，这项运动为什么反而让人留下来]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8114522.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router</title>
-      <link>https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&amp;utm_medium=article</guid>
+      <title>网易云音乐不想被汽水抢走最后一个音符</title>
+      <link>https://www.tmtpost.com/8113993.html</link>
+      <description>&lt;![CDATA[网易云音乐不想被汽水抢走最后一个音符]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8113993.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……</title>
-      <link>https://sspai.com/post/113563</link>
-      <description>&lt;![CDATA[AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113563</guid>
+      <title>两天卖出十万份，从GAME JAM到爆款独游需要《多少兄弟？》</title>
+      <link>https://www.tmtpost.com/8113947.html</link>
+      <description>&lt;![CDATA[两天卖出十万份，从GAME JAM到爆款独游需要《多少兄弟？》]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8113947.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>影石似乎讲不出新故事</title>
+      <link>https://www.tmtpost.com/8113717.html</link>
+      <description>&lt;![CDATA[影石似乎讲不出新故事]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8113717.html</guid>
       <category>Technology</category>
     </item>
   </channel>
