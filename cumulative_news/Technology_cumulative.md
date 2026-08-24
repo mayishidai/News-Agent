@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-24 05:41
+**最后更新时间**: 2026-08-24 09:01
+
+---
+
+## 🆕 最新更新 (2026-08-24 09:01)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [130 亿美元，Hugging Face 要卖了](http://www.geekpark.net/news/369289)
+**发布时间**: 2026-08-24 16:45
+
+#### [年轻人的网络社交，正在偷偷「鸽化」](http://www.geekpark.net/news/369290)
+**发布时间**: 2026-08-24 16:43
+
+#### [「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球](http://www.geekpark.net/news/369283)
+**发布时间**: 2026-08-24 15:25
+
+#### [AI 音乐走到「该怎么做」，中国大模型为啥选最难的路？](http://www.geekpark.net/news/369273)
+**发布时间**: 2026-08-24 15:17
+
+#### [DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新](http://www.geekpark.net/news/369278)
+**发布时间**: 2026-08-24 15:14
+
+#### [形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判](http://www.geekpark.net/news/369264)
+**发布时间**: 2026-08-24 14:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算](https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 15:43
+
+#### [“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router](https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563)
+**发布时间**: 2026-08-24 15:14
 
 ---
 
