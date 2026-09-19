@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-18 01:06
+**最后更新时间**: 2026-09-19 01:01
+
+---
+
+## 🆕 最新更新 (2026-09-19 01:01)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [MilleMiglia: A realistic instance generator for middle-mile logistics](https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/)
+**发布时间**: 2026-09-18 17:46
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向](https://www.qbitai.com/2026/09/492426.html)
+**发布时间**: 2026-09-18 15:58
+
+#### [达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布](https://www.qbitai.com/2026/09/492421.html)
+**发布时间**: 2026-09-18 15:50
+
+#### [具身智能技术路线尚未定型，基础设施却先收敛](https://www.qbitai.com/2026/09/492238.html)
+**发布时间**: 2026-09-18 13:16
+
+#### [AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢](https://www.qbitai.com/2026/09/492175.html)
+**发布时间**: 2026-09-18 12:22
+
+#### [白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经](https://www.qbitai.com/2026/09/492015.html)
+**发布时间**: 2026-09-18 09:19
+
+#### [AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线](https://www.qbitai.com/2026/09/491875.html)
+**发布时间**: 2026-09-18 06:11
+
+#### [Manus重生第17天，估值居然就翻倍了](https://www.qbitai.com/2026/09/491764.html)
+**发布时间**: 2026-09-18 00:37
+
+#### [刚刚，Claude Code大重构！内部3万Agent管理技术免费开放](https://www.qbitai.com/2026/09/491711.html)
+**发布时间**: 2026-09-18 00:34
 
 ---
 

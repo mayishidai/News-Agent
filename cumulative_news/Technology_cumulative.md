@@ -1,7 +1,126 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-18 01:06
+**最后更新时间**: 2026-09-19 01:03
+
+---
+
+## 🆕 最新更新 (2026-09-19 01:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（9月19日）](https://www.tmtpost.com/8145335.html)
+**发布时间**: 2026-09-19 08:30
+
+#### [外卖“御三家”：狂热开始，理性收敛](https://www.tmtpost.com/8144061.html)
+**发布时间**: 2026-09-18 18:24
+
+#### [罗福莉压力有多大？都给小米模型训练整上直播了](https://www.tmtpost.com/8144556.html)
+**发布时间**: 2026-09-18 18:23
+
+#### [月之暗面递表之后，Kimi 的成色要被验算三遍](https://www.tmtpost.com/8144610.html)
+**发布时间**: 2026-09-18 18:16
+
+#### [东方Gelato，野人先生真正的护城河](https://www.tmtpost.com/8144654.html)
+**发布时间**: 2026-09-18 18:16
+
+#### [赛力斯的真正考验，来了](https://www.tmtpost.com/8144771.html)
+**发布时间**: 2026-09-18 18:16
+
+#### [办公Agent之战，才刚刚找到战场](https://www.tmtpost.com/8144821.html)
+**发布时间**: 2026-09-18 18:16
+
+#### [珀莱雅投资毕生之研；ALO官宣中国市场七城八店零售布局；星巴克中国新一代旗舰店亮相北京SKP；NikeSKIMS品牌正式进入中国｜消研所周报](https://www.tmtpost.com/8144867.html)
+**发布时间**: 2026-09-18 18:13
+
+#### [联想集团股价再创新高，CFO曾称完全被市场低估](https://www.tmtpost.com/8144761.html)
+**发布时间**: 2026-09-18 16:25
+
+#### [硅谷也开启AI办公大战了](https://www.tmtpost.com/8144624.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [23 岁，10 万用户，估值 100 亿美元：硅谷 VC 正在批量生产“纸面独角兽”](https://www.tmtpost.com/8143708.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [豆包手机想得美](https://www.tmtpost.com/8144534.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [从谷歌到字节，每个大厂，终将拥有一家药厂](https://www.tmtpost.com/8144446.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [Anthropic之恶](https://www.tmtpost.com/8144519.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [固态电池未来3年的剧本大抵是这样的](https://www.tmtpost.com/8144404.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [零样本干活！Figure 机器人走进 30 个陌生家庭，整理客厅、折毛巾、铺床](https://www.tmtpost.com/8144641.html)
+**发布时间**: 2026-09-18 15:08
+
+#### [对话超维动力喻杰：具身智能，没有弯道超车｜独家](https://www.tmtpost.com/8144542.html)
+**发布时间**: 2026-09-18 13:14
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道](http://www.geekpark.net/news/370608)
+**发布时间**: 2026-09-19 08:01
+
+#### [AI 硬件创业者，疯狂涌入手机的背面](http://www.geekpark.net/news/370610)
+**发布时间**: 2026-09-18 22:07
+
+#### [那个教 ChatGPT 说话的人，做了一个「哑巴」模型](http://www.geekpark.net/news/370603)
+**发布时间**: 2026-09-18 17:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署](https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 18:00
+
+#### [Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化](https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 17:00
+
+#### [唐杰、GLM团队长文披露智谱RSI最新进展：GLM-5.3已摸到门槛，“正一步步走向取代我们”](https://www.infoq.cn/article/O1uIfJx3CF5SZz3ayuaI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 16:48
+
+#### [ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS](https://www.infoq.cn/article/gDSf7xBmd08H0eB0GG11?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 15:53
+
+#### [微软借助 AI 单月修补超千个安全漏洞](https://www.infoq.cn/article/eluArohETBhwjjYZRoMG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 14:48
+
+#### [亚马逊云科技开放 AL2027 预览，开发者最关心的却是：能原地升级吗？](https://www.infoq.cn/article/tbUQhEqo7etbjfyuyNK0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 14:00
+
+#### [被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索](https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 12:35
+
+#### [6.5亿美元押注“AI研究AI”：一群顶级研究员想造出“自我进化”的超级智能](https://www.infoq.cn/article/da8jMox7ikdNmD2vYyTm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 12:00
+
+#### [Agoda 用 DragonflyDB 替换 SQL Server：真正难的不是性能，而是平稳切换](https://www.infoq.cn/article/2kGlAwpJrK9I5kdDHLGz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 11:20
+
+#### [让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海](https://www.infoq.cn/article/x2FmIeCkeDYUV66BNj3g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 10:00
+
+#### [700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件](https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 09:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
+**发布时间**: 2026-09-18 17:58
+
+#### [8月音乐精选：有限的生命里，要听得再任性一点！](https://sspai.com/post/114555)
+**发布时间**: 2026-09-18 14:55
+
+#### [具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……](https://sspai.com/post/114670)
+**发布时间**: 2026-09-18 11:30
+
+#### [让 Agent 读懂你的身体：数据获取篇](https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis)
+**发布时间**: 2026-09-18 11:19
+
+#### [派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等](https://sspai.com/post/114699)
+**发布时间**: 2026-09-18 08:17
 
 ---
 
