@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-02 10:56
+**最后更新时间**: 2026-10-03 01:47
+
+---
+
+## 🆕 最新更新 (2026-10-03 01:47)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Toward provably private learning from federated data](https://research.google/blog/toward-provably-private-learning-from-federated-data/)
+**发布时间**: 2026-10-02 14:57
 
 ---
 
