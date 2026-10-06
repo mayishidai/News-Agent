@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-05 12:06
+**最后更新时间**: 2026-10-06 02:45
+
+---
+
+## 🆕 最新更新 (2026-10-06 02:45)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle](https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/)
+**发布时间**: 2026-10-05 21:08
 
 ---
 
